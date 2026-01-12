@@ -1,3 +1,5 @@
+// node.js file for API to get student GPAs
+
 const express = require('express');
 
 const app = express();
